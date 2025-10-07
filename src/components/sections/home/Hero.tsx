@@ -44,7 +44,7 @@ interface HeroProps {
 }
 
 export default function Hero({
-  badge = 'New: Enterprise-Grade Platform',
+  badge = 'New: Enterprise-Grade Platform to test',
   title = 'Scale your business with',
   titleHighlight = 'intelligent SaaS solutions',
   description = 'Transform your workflow with our AI-powered platform. Built for modern teams who demand performance, security, and seamless integration.',
