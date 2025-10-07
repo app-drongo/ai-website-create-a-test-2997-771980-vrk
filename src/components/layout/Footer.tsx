@@ -94,7 +94,7 @@ export default function Footer() {
                 <span className="font-bold text-xl">SaaS Startup</span>
               </Link>
               <p className="text-muted-foreground text-sm leading-relaxed mb-6">
-                Growth businesses with cutting-edge SaaS solutions that scale with your growth.
+                Growth businesses with SaaS solutions that scale with your growth.
                 Join thousands of companies who trust our platform to drive their success.
               </p>
             </div>
